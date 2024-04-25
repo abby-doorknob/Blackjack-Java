@@ -1,7 +1,7 @@
-# FinalCS1
+# Blackjack
 
-## Project Description
-For my final project, I recreated the gambling card game called Blackjack. The goal of the game is to bring your hand closest to 21. Every round, you can bet however much you want, and your "opponent" will also make a bet.  Using the commands "hit" and "fold", you can add another card to your hand, or stop the program from giving you another card. At the end of each round, the program will ask you if you want to play again. If you choose not to, you will be asked if you want to save your game. If you choose to save your game, your total balance will be saved and accessed the next time you play.
+## Project Background
+This was my final project for my CS&141 class I took at Olympic College with Professor Adrian Veliz. I created the game Blackjack that has a betting mechanic against an "opponent".
 
 ## Overview
 Within this repository contains a folder called Blackjack. In this folder is my project, Blackjack.java, as well as other classes Blackjack.java is dependent on to run and compile. These classes include the Clear.java, Opponent.java, and Player.java files. Included is also a savegame.txt file which contains information from the last game the user exited (if they decided to save their game). 
